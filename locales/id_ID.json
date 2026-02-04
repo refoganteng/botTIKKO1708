@@ -1,0 +1,24 @@
+{
+  "intro": "📌 Selamat datang di Tikko — Tanya Statistik Kepahiang Online!\n\nSilakan ketik *angka* sesuai layanan yang Anda butuhkan.\nContoh: *1*",
+  "template.menu": "*{{number}}*. *{{menu}}*",
+
+  "menu.tentangBPS": "Tentang BPS Kabupaten Kepahiang",
+
+  "menu.perpustakaan": "Layanan Perpustakaan",
+  "menu.publikasi" : "Publikasi/ Buku Online",
+  "menu.datasatistik" : "Data Berdasarkan Kategori",
+  "menu.statistikSosial" : "Data Statistik Demografi dan Sosial",
+  "menu.statistikEkonomi" : "Data Statistik Ekonomi",
+  "menu.statistikLingkungan" : "Data Statistik Lingkungan Hidup & Multi Domain",
+  
+  "menu.konsultasi": "Layanan Konsultasi Statistik",
+
+  "menu.rekomendasiSektoral": "Rekomendasi Kegiatan Statistik Sektoral",
+
+  "menu.faq": "Pertanyaan yang Sering Diajukan (FAQ)",
+  "menu.pengaduan": "Layanan Pengaduan",
+  "menu.janjitemu": "Buat Janji Temu",
+  "menu.selesaimenu": "Selesai ✅",
+
+  "footer": "──────\nWebsite: kepahiangkab.bps.go.id\nInstagram: @bpskepahiang\nFacebook: BPS Kabupaten Kepahiang\n──────"
+}
